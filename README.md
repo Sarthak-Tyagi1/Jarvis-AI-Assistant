@@ -23,4 +23,4 @@ python main.py
 
 ## 📸 Project Demo
 
-![Jarvis Demo](screenshots/JarvisImage.png)
+![Jarvis Demo](screenshot/JarvisImage.png)
